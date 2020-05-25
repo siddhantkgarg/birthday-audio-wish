@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/siddhantkgarg/birthday-audio-wish/issues"
   },
-  "homepage": "https://github.com/siddhantkgarg/birthday-audio-wish#readme"
+  "homepage": "https://github.com/siddhantkgarg/birthday-audio-wish#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
