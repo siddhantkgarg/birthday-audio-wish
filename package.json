@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo No tests included yet"
+    "test": "echo No tests included yet",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
